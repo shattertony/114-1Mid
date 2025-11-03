@@ -56,22 +56,25 @@ Ans: name:為名稱 項目是keyboard mouse monitor usb cable stock:為項目的
 
 
 
-1. b.
+1. b
 
-Ans:
+Ans:其輸出結果須以下面格式顯示:
+![alt text]({E580EC62-C034-42A1-9842-708935809AA0}-2.png)
 
 <!-- 請撰寫時，最後一句話再寫一次 -->
 
 
 1. c.
 
-Ans:
+Ans:承b:
+![alt text]({E580EC62-C034-42A1-9842-708935809AA0}-1.png)
 
 <!--  請撰寫時，第一句話再寫一次  -->
 
 2. a.
 
-Ans:
+Ans:該為工程師先以2a.js作為檔名
+![alt text](image.png)
 
 <!--  請撰寫時，第一句話再寫一次  -->
 
