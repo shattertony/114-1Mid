@@ -1,4 +1,4 @@
-# 第2次隨堂題目-隨堂-QZ2
+# 題目-期中考114-1Mid
 >
 >學號：112111136   (學號和姓名都要寫)
 ><br />
@@ -73,12 +73,12 @@ Ans:承b:
 
 2. a.
 
-Ans:該為工程師先以2a.js作為檔名
+Ans:如下圖:/為index.html輸出的部分。 /calculator為index2.html輸出的部分。 亂打的/www為error.html輸出的部分。
 ![alt text](image.png)
 
 <!--  請撰寫時，第一句話再寫一次  -->
 
-2. b.由於node js 的路由可以如a小題一樣只輸出文字，但也可以輸出網頁。
+2. b.由於node js 的路由可以如a小題一樣只輸出文字，但也可以輸出網頁。如下圖: 網址為/是index.ejs的圖片。網址為/calculator就是輸出index2.ejs
 
 Ans:![alt text](image-1.png)
 
@@ -86,7 +86,7 @@ Ans:![alt text](image-1.png)
 
 2. c.
 
-Ans:同b
+Ans:同b 網址不是/也不是/calculator就是輸出index3.ejs
 ![alt text](image-2.png)
 
 <!--  請撰寫時，第一句話和最後一句再寫一次  -->
